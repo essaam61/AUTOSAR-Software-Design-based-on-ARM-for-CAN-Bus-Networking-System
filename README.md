@@ -7,4 +7,4 @@ More over, this was applied by the AUTOSAR standard to standardize the software 
 ![connec](https://user-images.githubusercontent.com/109050863/197553813-882c1d68-0067-4748-8433-ef5dbeb1214a.PNG)
 
 
-You can also find catalogue for a SRS document to describe the software architecture, its requirements using some UML tools and classified it for each ECU separately.
+You can also find catalogue for a SDD document to describe the software architecture, its requirements using some UML tools and classified it for each ECU separately.
